@@ -1,0 +1,1 @@
+Project to farm BLUM coins in minigames.
